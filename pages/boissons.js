@@ -5,7 +5,7 @@ const boissons = () => {
     <section className="py-6 ">    
     <div className="px-8 mx-auto max-w-7xl lg:px-16">
 
-        <h3 className="mt-2 mb-4 font-bold text-3xl text-gray-600">BOISSONS CHAUDES </h3>
+        <h3 className="mt-2 mb-4 font-bold text-3xl text-gray-600 ">BOISSONS CHAUDES </h3>
        
        
         <div className="grid grid-cols-1 gap-0 text-gray-600 md:grid-cols-2 md:gap-16">
@@ -230,18 +230,19 @@ const boissons = () => {
                     <h3 className="mb-4 mt-3 font-bold text-3xl">LES BOUTEILLES  </h3>
                     <div>
                         <span className="mr-2 font-bold text-pink-500">ROSE </span>
-                        <p className="text-sm  "> LA NUIT TOUS LES CHATS SONT GRIS <span className="m ml-2 font-bold text-pink-500">22.00 €</span> </p>
+                        <p className="text-sm  "> LA NUIT TOUS LES CHATS SONT GRIS <span className=" ml-2 font-bold text-pink-500">22.00 €</span> </p>
                         <p className="text-sm mb-4 italic">CELLIER DES CHARTREUX  </p>
+      
                     </div>
                     <div>
                         <span className="mr-2 font-bold text-pink-500">BLANC </span> 
                         <p className="text-sm">VIEILLE VIGNE DE CRUET - <span className="italic">DE L'IDYLLE </span> <span className="m ml-2 font-bold text-pink-500">22.00 €</span></p>
-                        <p className="text-sm mb-4 ">CHIGNIN BERGERON - DOMAINE PLANTIN AOP <span className="m ml-2 font-bold text-pink-500">28.00 €</span></p>
+                        <p className="text-sm mb-4 ">CHIGNIN BERGERON - DOMAINE PLANTIN AOP <span className=" ml-2 font-bold text-pink-500">28.00 €</span></p>
                     </div>
                     <div>
                         <span className="mr-2 font-bold text-pink-500">ROUGE </span>
                         <p className="text-sm"> COTE DU RHONE VILLAGE SAINT GERVAIS  - LE CLAN DES LOUPS <span className="m ml-2 font-bold text-pink-500">22.00 €</span></p> 
-                        <p className="text-sm mb-4 "> MONDEUSE ARBIN - DOMAINE DE L'IDYLLE <span className="m ml-2 font-bold text-pink-500">28.00 €</span></p> 
+                        <p className="text-sm mb-4 "> MONDEUSE ARBIN - DOMAINE DE L'IDYLLE <span className=" ml-2 font-bold text-pink-500">28.00 €</span></p> 
                     </div>
                 </div>  
               </div>

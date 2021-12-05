@@ -5,3 +5,11 @@ module.exports = {
       'mongodb+srv://david:iomegase@cluster0.kqkpi.mongodb.net/conciergerie?retryWrites=true&w=majority',
   },
 };
+
+
+   
+// const nextTranslate = require("next-translate");
+
+// module.exports = {
+//   ...nextTranslate(),
+// };

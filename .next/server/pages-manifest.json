@@ -1,5 +1,9 @@
 {
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/_error": "pages/_error.js"
+  "/_error": "pages/_error.js",
+  "/menu": "pages/menu.js",
+  "/desserts": "pages/desserts.js",
+  "/boissons": "pages/boissons.js",
+  "/specialite": "pages/specialite.js"
 }
